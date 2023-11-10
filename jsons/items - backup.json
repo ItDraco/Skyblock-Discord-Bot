@@ -1,0 +1,294 @@
+{
+    "auctions": [
+        {
+            "item_name":"Attribute Shard",
+            "unwanted_names":[],
+            "tier":"COMMON",
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Lifeline"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0,300000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1131756584264015952
+        },
+        {
+            "item_name":"Attribute Shard",
+            "unwanted_names":[],
+            "tier":"COMMON",
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Magic Find"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 500000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1131756584264015952
+        },
+        {
+            "item_name":"Attribute Shard",
+            "unwanted_names":[],
+            "tier":"COMMON",
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Veteran"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 625000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1131756584264015952
+        },
+        {
+            "item_name":"Chestplate",
+            "unwanted_names":["Flaming"],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Mana Pool"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 280000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129181503511871558
+        },
+        {
+            "item_name":"Leggings",
+            "unwanted_names":["Flaming", "Moogma"],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Mana Pool"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 280000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129181503511871558
+        },
+        {
+            "item_name":"Boots",
+            "unwanted_names":["Flaming", "Slug Boots"],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Mana Pool"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 280000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129181503511871558
+        },
+        {
+            "item_name":"Chestplate",
+            "unwanted_names":["Flaming"],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Mana Regeneration"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 280000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129181503511871558
+        },
+        {
+            "item_name":"Leggings",
+            "unwanted_names":["Flaming", "Moogma"],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Mana Regeneration"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 280000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129181503511871558
+        },
+        {
+            "item_name":"Boots",
+            "unwanted_names":["Flaming", "Slug Boots"],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Mana Regeneration"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 280000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129181503511871558
+        },
+        {
+            "item_name":"Molten Cloak",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Veteran"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 500000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129009554882056253
+        },
+        {
+            "item_name":"Molten Cloak",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Magic Find"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 500000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129009554882056253
+        },
+        {
+            "item_name":"Molten Belt",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Magic Find"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 500000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129009554882056253
+        },
+        {
+            "item_name":"Molten Bracelet",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Magic Find"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 500000],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129009554882056253
+        },
+        {
+            "item_name":"Molten Cloak",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Lifeline"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 187500],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129009554882056253
+        },
+        {
+            "item_name":"Molten Belt",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Lifeline"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 187500],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129009554882056253
+        },
+        {
+            "item_name":"Molten Bracelet",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Lifeline"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[0, 187500],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129009554882056253
+        },
+        {
+            "item_name":"Lava Shell Necklace",
+            "unwanted_names":[],
+            "tier":null,
+            "pet_level":null,
+            "item_lore":{
+                "word_search":null,
+                "unwanted_word_search":null,
+                "attributes":["Lifeline", "Mana Pool"],
+                "attribute_mode":true,
+                "regex":null
+            },
+            "price_range":[],
+            "timestamp":null,
+            "notify":true,
+            "channel":1129008673277091880
+        }
+    ],
+    "bazaar": []
+}

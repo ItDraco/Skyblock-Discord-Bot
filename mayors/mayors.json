@@ -1,0 +1,118 @@
+[
+    {
+        "year":289,
+        "winner":"Marina",
+        "candidates":[
+            {
+                "name":"Marina",
+                "perks":["Fishing XP Buff",	"Luck of the Sea 2.0", "Fishing Festival"]
+            },
+            {
+                "name":"Aatrox",
+                "perks":["Slayer XP Buff"]
+            },
+            {
+                "name":"Diana",
+                "perks":["Mythological Ritual"]
+            },
+            {
+                "name":"Paul",
+                "perks":["EZPZ"]
+            },
+            {
+                "name":"Finnegan",
+                "perks":["Pelt-pocalypse"]
+            }
+        ]
+    },
+    {
+        "year":290,
+        "winner":"Cole",
+        "candidates":[
+            {
+                "name":"Diaz",
+                "perks":["Barrier Street",	"Shopping Spree"]
+            },
+            {
+                "name":"Finnegan",
+                "perks":["GOATed","Pelt-pocalypse"]
+            },
+            {
+                "name":"Diana",
+                "perks":["Mythological Ritual"]
+            },
+            {
+                "name":"Cole",
+                "perks":["Prospection","Mining XP Buff","Mining Fiesta"]
+            },
+            {
+                "name":"Foxy",
+                "perks":["Benevolence","Sweet Tooth","Extra Event"]
+            }
+
+        ]
+    },{
+        "year":291,
+        "winner":"Scorpius",
+        "candidates":[
+            {
+                "name":"Scorpius",
+                "perks":["Bribe", "Darker Auctions"]
+            }
+        ]
+    },
+    {
+        "year":292,
+        "winner":"Attrox",
+        "candidates":[
+            {
+                "name":"Foxy",
+                "perks":["Benevolence",	"Sweet Tooth", "Extra Event"]
+            },
+            {
+                "name":"Cole",
+                "perks":["Mining Fiesta"]
+            },
+            {
+                "name":"Marina",
+                "perks":["Luck of the Sea 2.0", "Fishing Festival"]
+            },
+            {
+                "name":"Aatrox",
+                "perks":["Slayer XP Buff","Pathfinder"]
+            },
+            {
+                "name":"Finnegan",
+                "perks":["Farming Simulator","GOATed","Pelt-pocalypse"]
+            }
+
+        ]
+    },
+    {
+        "year":293,
+        "winner":"Paul",
+        "candidates":[
+            {
+                "name":"Paul",
+                "perks":["Marauder", "EZPZ"]
+            },
+            {
+                "name":"Foxy",
+                "perks":["Benevolence",	"Sweet Tooth", "Extra Event"]
+            },
+            {
+                "name":"Marina",
+                "perks":["Luck of the Sea 2.0", "Fishing Festival"]
+            },
+            {
+                "name":"Diana",
+                "perks":["Pet XP Buff"]
+            },
+            {
+                "name":"Cole",
+                "perks":["Mining Fiesta"]
+            }
+
+        ]
+    }
+]
